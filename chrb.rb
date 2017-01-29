@@ -3,7 +3,7 @@ require 'formula'
 class Chrb < Formula
   homepage 'https://github.com/rubinius/chruby#readme'
   url 'https://github.com/rubinius/chruby/archive/v0.3.9.1.tar.gz'
-  sha1 '7835909fc5eb52591a3a58a7794a46ac651891f2'
+  sha256 'f9c74d29a2294e85d716d107c47477f1a333807f79b5709b9ad4b45a047d64d0'
 
   head 'https://github.com/rubinius/chruby.git'
 
